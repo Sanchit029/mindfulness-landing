@@ -15,11 +15,6 @@ A beautiful, responsive landing page for a mindfulness and meditation platform d
 
 [View Live Demo](https://mindfulness-landing.vercel.app/) <!-- Add your deployed URL here -->
 
-## 📸 Screenshots
-
-![Hero Section](./screenshots/hero.png)
-![Programs Section](./screenshots/programs.png)
-![Pricing Section](./screenshots/pricing.png)
 
 ## 🛠️ Technologies Used
 
