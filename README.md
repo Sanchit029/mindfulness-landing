@@ -34,7 +34,7 @@ A beautiful, responsive landing page for a mindfulness and meditation platform d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mindfulness-landing.git
+   git clone https://github.com/Sanchit029/mindfulness-landing.git
    cd mindfulness-landing
    ```
 
